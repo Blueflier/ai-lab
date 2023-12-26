@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ai-Lab/static/css/main.f855e6bc.css",
-    "main.js": "/Ai-Lab/static/js/main.9274831e.js",
-    "static/js/787.2e3ce211.chunk.js": "/Ai-Lab/static/js/787.2e3ce211.chunk.js",
-    "static/media/logo.svg": "/Ai-Lab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Ai-Lab/index.html",
-    "main.f855e6bc.css.map": "/Ai-Lab/static/css/main.f855e6bc.css.map",
-    "main.9274831e.js.map": "/Ai-Lab/static/js/main.9274831e.js.map",
-    "787.2e3ce211.chunk.js.map": "/Ai-Lab/static/js/787.2e3ce211.chunk.js.map"
+    "main.css": "/ai-lab/static/css/main.f855e6bc.css",
+    "main.js": "/ai-lab/static/js/main.e4dbd149.js",
+    "static/js/787.2e3ce211.chunk.js": "/ai-lab/static/js/787.2e3ce211.chunk.js",
+    "static/media/logo.svg": "/ai-lab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ai-lab/index.html",
+    "main.f855e6bc.css.map": "/ai-lab/static/css/main.f855e6bc.css.map",
+    "main.e4dbd149.js.map": "/ai-lab/static/js/main.e4dbd149.js.map",
+    "787.2e3ce211.chunk.js.map": "/ai-lab/static/js/787.2e3ce211.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9274831e.js"
+    "static/js/main.e4dbd149.js"
   ]
 }
